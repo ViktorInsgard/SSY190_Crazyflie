@@ -1,0 +1,2 @@
+#ifndef GROUP_SEVEN_TEST_H_
+#define GROUP_SEVEN_TEST_H_
